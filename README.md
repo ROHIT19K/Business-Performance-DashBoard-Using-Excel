@@ -4,8 +4,6 @@ Interactive Excel Dashboard for analyzing Revenue, Profit, Expenses, Customer Se
 
 ## 📌 Project Overview
 
-🔹 Introduction
-
 The Business Performance Analysis Dashboard project focuses on analyzing organizational performance using Microsoft Excel. The dashboard provides insights into revenue generation, profitability, departmental performance, customer segmentation, and regional business trends.
 
 The project was designed to help businesses monitor operational efficiency and make data-driven decisions using interactive Excel dashboards and pivot-based reporting.

@@ -123,47 +123,21 @@ Pivot Charts
 
 ## 🔍 Key Insights
 
-* Identify Total Profit By Different Payment Methods 
+1. Cash payment method generated the highest total profit (~90 lakh), outperforming all other payment methods.
 
-       1. Bank Transfer - 36,29,433
-       2. Cash - 90,13,666
-       3. Credit Card - 50,30,165
-       4. Pay Pal - 28,20,265
+2. Healthcare was the top-performing product line with revenue exceeding 2 crore.
 
-* Identify Total Revenue By Product Line
+3. Africa recorded the highest number of transactions (818 transactions) among all regions.
 
-        1. Clothing	    -  85,85,057 
-        2. Electronics	- 1,01,99,670 
-        3. Furniture	-  54,96,803 
-        4. Healthcare	- 2,18,63,582 
-        5. Software	    - 78,20,463 
+4. South America had the lowest transaction count, indicating lower business activity.
 
-* Identify Number Of Transaction By Region
+5. The R&D department generated the highest revenue, expense, and profit compared to other business categories.
 
-       1.  Africa	   -    818
-       2.  Asia-Pacific - 	258
-       3. Europe	-       314
-       4.  North America	 -  411
-       5.  South America	 -  199
+6. Revenue consistently remained higher than expenses across all departments, indicating positive profitability.
 
+7. Average expenses were almost evenly distributed across departments, ranging between 16%–17%.
 
-* Identify Total Revenue / Profit / Expense By Category
-
-                               Revenue            Expense             Profit
-      1.    HR	-            53,99,448 	      32,47,742 	      21,51,706 
-      2.    Marketing - 	     87,55,912 	      54,17,002 	      33,38,910 
-      3.    Operations	-    70,58,076        42,91,785           27,66,291 
-      4.    R&D	 -           2,27,11,986 	  1,43,81,610 	      83,30,376 
-      5.    Sales - 	         1,00,40,153 	  61,33,907 	      39,06,246 
-
-* Tracked Average Expense By Each Category
-
-        Finance	 15,749 
-        HR	 17,352 
-        IT	 16,811 
-        Marketing	 16,478 
-        Operations	 17,174 
-        Sales	 16,628 
+8. Sales, Operations, and HR departments contributed significantly to overall organizational expenses.
 
 
 ## 🚀 Future Enhancements
